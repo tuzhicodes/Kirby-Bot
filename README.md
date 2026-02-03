@@ -55,7 +55,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtZzVwZzF3bW1xY3R3dGZ1dGZ1dGZ1dGZ1dGZ1dGZ1dGZ1dGZ1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="400px" style="border-radius: 15px; box-shadow: 0 0 30px #8B5CF6;"/>
+<img src="https://cdn.discordapp.com/attachments/1321820927930925136/1468223133201862877/Screenshot_2026-01-30-15-00-45-88_e4424258c8b8649f6e67d283a50a2cbc.jpg" width="400px" style="border-radius: 15px; box-shadow: 0 0 30px #8B5CF6;"/>
 
 <p align="center"><b>Kirby Dashboard Dashboard</b></p>
 
