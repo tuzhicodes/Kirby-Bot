@@ -116,7 +116,7 @@
 
 ## 🚀 Installation
 
-</div>
+</div> 
 
 ### Prerequisites
 - Node.js v18 or higher
@@ -320,7 +320,7 @@ Setting Up Auto React:
 
 TuZhi Codes
 
-© 2026 All Rights Reserved
+© 2026 All Rights Reserved 
 
 Project: Kirby Bot with Dashboard
 
@@ -350,5 +350,16 @@ Proprietary License - TuZhi Codes © 2026
 ---
 
 📞 Support & Contact
+Discord: `https://discord.gg/mnbQFftqby`
+
+
+--- 
+
+
+<div align="center">
+
+ © TuZhi Codes 2026 All Rights Reserved 
+
+</div> 
 
 ---
