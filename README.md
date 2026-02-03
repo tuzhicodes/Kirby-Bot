@@ -57,7 +57,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtZzVwZzF3bW1xY3R3dGZ1dGZ1dGZ1dGZ1dGZ1dGZ1dGZ1dGZ1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="400px" style="border-radius: 15px; box-shadow: 0 0 30px #8B5CF6;"/>
 
-<p align="center"><b>🎨 Purple Theme Dashboard</b></p>
+<p align="center"><b>Kirby Dashboard Dashboard</b></p>
 
 </td>
 </tr>
