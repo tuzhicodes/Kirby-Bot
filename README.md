@@ -1,9 +1,4 @@
-Main aapke liye ek complete, professional README.md bana raha hoon jo pure English me hai aur sab kuch ek hi file me! 💜
-
----
-
-```markdown
-<h1 align="center">
+ <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Kirby%20Bot&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Advanced%20Discord%20Bot%20with%20Dashboard&descAlignY=60&descSize=25"/>
 </h1>
 
@@ -77,7 +72,6 @@ Main aapke liye ek complete, professional README.md bana raha hoon jo pure Engli
 </div>
 
 ```
-
 ┌─────────────────────────────────────────────────────────────────┐
 │                     KIRBY BOT SYSTEM FLOW                        │
 └─────────────────────────────────────────────────────────────────┘
@@ -114,7 +108,6 @@ Main aapke liye ek complete, professional README.md bana raha hoon jo pure Engli
 │  • Auto-reacts to every new message                             │
 │  • Fully automated - no manual work needed!                     │
 └─────────────────────────────────────────────────────────────────┘
-
 ```
 
 ---
